@@ -1,5 +1,5 @@
 # Auto_AA_SO_MOUSE
-Auto copying HK Equity shares outstanding from AAstock website
+Auto-mouse control copying HK Equity shares outstanding from AAstock website 
 
 Background:
 AAstock is a HK local website for mainly HK and CH stock information
